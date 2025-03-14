@@ -3,7 +3,7 @@
 Source from here: 
 https://github.com/grimme-lab/xtb/
 
-# Running with GPU support
+## Running with GPU support
 When running on NERSC with GPU support, these should be set as well:
 
 ```
